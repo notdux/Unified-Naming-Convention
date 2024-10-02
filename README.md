@@ -50,3 +50,7 @@ Maintaining a unified naming convention helps ensure that:
 - Avoid abbreviations unless they are widely accepted (e.g., `UI`, `ID`).
 - Use meaningful and descriptive names.
 - Keep names concise but clear.
+
+- ### Credits
+
+- All credits to: [@3rdit](https://github.com/3rdit) and all the people that worked on UNC <3
